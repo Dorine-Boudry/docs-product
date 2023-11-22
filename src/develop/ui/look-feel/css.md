@@ -41,8 +41,7 @@ You can also open the Style Sheet Editor by clicking the **CSS** button in the M
 
 ![CSS of the Theme](images/css-style-sheet-editor.png?width=600)
 
-## CSS specificity
-
+## CSS precendence
 The styles have different priorities and the order Service Studio imports the style sheets affects how the browsers apply them. The last style to be applied has the highest priority.
 
 1. System style sheet for Container widgets in the Grid.
